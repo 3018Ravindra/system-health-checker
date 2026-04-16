@@ -2,7 +2,7 @@
 
 # System Health Checker
 
-This project is a simple shell script that checks system health.
+This project is a simple shell script that checks system health. 
 
 ## Features
 - Displays date
@@ -13,3 +13,5 @@ This project is a simple shell script that checks system health.
 
 chmod +x health.sh
 ./health.sh
+
+- Debugging
